@@ -14,7 +14,7 @@ send this msg directly to the victim.
 Hi Instagram User!
 
 copyright infringement!
-Copyright violation has been detected in a post on your account.
+A Copyright violation has been detected in a post on your account.
 if you think copyright infringement is wrong, you should provide feedback. Otherwise, your account will be closed within 24 hours. You can give feedback using the link below. Thank you for your understanding.
 
 Copyright Form
